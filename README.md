@@ -41,7 +41,7 @@ The expected project-site address is:
 
 <https://jani-capstone.github.io/ja-biztown-schedule-builder/>
 
-The repository currently has no deployment workflow or Pages configuration file, and its published URL has not been verified. The address above should be treated as the expected URL until Pages is enabled and the deployment is confirmed.
+The repository currently has no deployment workflow or Pages configuration file, and its published URL has not been verified. Treat the address above as the expected URL until the Pages configuration and a successful deployment are confirmed.
 
 ## Updating the published app
 
